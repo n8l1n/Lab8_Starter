@@ -1,1 +1,4 @@
 # Lab8-Starter
+Nathan Lin
+
+Graceful degradation is the design philosophy that allows a system to maintain functionality when components start to fail, or not all resources are available. It provides fallbacks for users so that the system does not just terminate if certain resources are missing. Service workers fulfill a similar purpose for when a user is experiencing poor network conditions while using a webapp. Since some of the functionality is maintained, the user is not immediately booted to a loading error screen.
